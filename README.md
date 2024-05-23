@@ -18,10 +18,7 @@ Task Alert is a Chrome extension designed to help you manage your tasks directly
 ## Usage
 
 1. Click on the extension icon in the toolbar.
-2. Add a new task by clicking on "Add Task".
-3. Set the task name and deadline.
-4. Save the task.
-5. You will receive an alert when the task deadline is near.
+2. Save the task.
 
 ## Contributing
 
